@@ -88,9 +88,9 @@ I enjoy working at the intersection of **software engineering, cloud, and artifi
 ---
 
 ## 📫 Let’s Connect
-- 💼 LinkedIn: *(add your link here)*
-- 📧 Email: *(add your email here)*
-- 🌐 Portfolio: *(optional)*
+- 💼 LinkedIn: linkedin.com/in/rishabh-upadhyay-880294220/
+- 📧 Email: rishabh.292002@gmail.com
+- 🌐 Portfolio: https://techiesblog12.vercel.app/
 
 ---
 
